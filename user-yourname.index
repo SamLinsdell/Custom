@@ -3,7 +3,7 @@
 	<info>
 		<name>Your Content</name>
 		<update version="1.0.0">
-			<file name="user-SamLinsdell.index" url="https://github.com/SamLinsdell/Custom/blob/master/user-yourname.index" />
+			<file name="user-SamLinsdell.index" url="https://raw.githubusercontent.com/SamLinsdell/Custom/master/user-yourname.index" />
 		</update>
 	</info>
 	<files>
