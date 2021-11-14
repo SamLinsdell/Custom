@@ -7,7 +7,7 @@
 		</update>
 	</info>
 
-	<element name="Lupin" type="Race" source="user-SamLinsdell" id="ID_USL_RACE_LUPIN">
+	<element name="Lupin" type="Race" source="user-SamLinsdell" id="ID_RACE_LUPIN">
 		<description>
 			<p class="flavor">The lupin are a tribal people whose origins have been lost to the ages. The canid humanoids wander realms of thick forests and grasslands, rarely making contact with other civilized races for fear of being ostracized. A traditionally nomadic people, it is rare to see a lupin stay in one place for long, and rarer to see one without their bonded mount.</p>
 			<h4>Skilled Predators</h4>
@@ -57,7 +57,7 @@
 			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_DUMB_DOG" />
 		</rules>
 		
-	<element name="Keen Hearing and Smell" type="Racial Trait" source="user-yourname" id="ID_RACIAL_TRAIT_KEEN_HEARING_AND_SMELL">
+	<element name="Keen Hearing and Smell" type="Racial Trait" source="Custom" id="ID_RACIAL_TRAIT_KEEN_HEARING_AND_SMELL">
 		<description>
 			<p>An expert tracker and with the blood of Lupine your smell and hearing are more sensetive than most</p>
 			<ul>
