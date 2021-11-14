@@ -7,7 +7,6 @@
 		</update>
 	</info>
 	<files>
-		<file name="source.xml" url="https://raw.githubusercontent.com/SamLinsdell/Custom/master/source.xml" />
 		<file name="race-lupin2.xml" url="https://raw.githubusercontent.com/SamLinsdell/Custom/master/user-yourname/race-lupin2.xml" />
 	</files>
 </index>
