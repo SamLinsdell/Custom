@@ -11,7 +11,7 @@
 		</description>
 		<setters>
 			<set name="abbreviation">USL</set>
-			<set name="url"></set>
+			<set name="url https://raw.githubusercontent.com/SamLinsdell/Custom/master/source.xml"></set>
 			<set name="third-party">true</set>
 			<set name="release">2021</set>
 			<set name="incomplete">true</set>
