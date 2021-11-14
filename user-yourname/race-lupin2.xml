@@ -57,7 +57,7 @@
 			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_DUMB_DOG" />
 		</rules>
 		
-	<element name="Keen Hearing and Smell" type="Racial Trait" source="user-SamLinsdell" id="ID_RACIAL_TRAIT_KEEN_HEARING_AND_SMELL">
+	<element name="Keen Hearing and Smell" type="Racial Trait" source="user-yourname" id="ID_RACIAL_TRAIT_KEEN_HEARING_AND_SMELL">
 		<description>
 			<p>An expert tracker and with the blood of Lupine your smell and hearing are more sensetive than most</p>
 			<ul>
@@ -70,7 +70,7 @@
             You have advantage on rolls when using scent to track someone or something.</description>			
 		</sheet>
 	</element>
-		<element name="Expert Rider" type="Racial Trait" source="user-SamLinsdell" id="ID_RACIAL_TRAIT_EXPERT_RIDER">
+		<element name="Expert Rider" type="Racial Trait" source="user-yourname" id="ID_RACIAL_TRAIT_EXPERT_RIDER">
 		<description>
 			<p>Your tribal upbringing gives you an edge handling horses and other mounts.</p>
 			<ul>
@@ -81,7 +81,7 @@
 			<description>Whenever you make an ability check made to persuade or control a mount, roll a d4, and add the number rolled to the check's total.</description>			
 		</sheet>
 	</element>
-		<element name="Lycanthrope Tracker" type="Racial Trait" source="user-SamLinsdell" id="ID_RACIAL_TRAIT_LYCANTHROPE_TRACKER">
+		<element name="Lycanthrope Tracker" type="Racial Trait" source="user-yourname" id="ID_RACIAL_TRAIT_LYCANTHROPE_TRACKER">
 		<description>
 			<p>Your intense training has given you unmatched insight when identifying lycanthropes and other shapechangers</p>
 			<ul>
