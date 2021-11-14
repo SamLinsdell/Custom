@@ -7,7 +7,7 @@
 		</update>
 	</info>
 
-	<element name="Lupin" type="Race" source="user-SamLinsdell" id="ID_RACE_LUPIN">
+	<element name="Lupin" type="Race" source="user-SamLinsdell" id="ID_USL_RACE_LUPIN">
 		<description>
 			<p class="flavor">The lupin are a tribal people whose origins have been lost to the ages. The canid humanoids wander realms of thick forests and grasslands, rarely making contact with other civilized races for fear of being ostracized. A traditionally nomadic people, it is rare to see a lupin stay in one place for long, and rarer to see one without their bonded mount.</p>
 			<h4>Skilled Predators</h4>
@@ -51,13 +51,13 @@
 			<grant type="Vision" id="ID_VISION_DARKVISION" />
 			<grant type="Language" id="ID_LANGUAGE_COMMON" />
 			<grant type="Language" id="ID_LANGUAGE_INFERNAL" />
-			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_KEEN_HEARING_AND_SMELL" />
-			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_EXPERT_RIDER" />
-			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_LYCANTHROPE_TRACKER" />
-			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_DUMB_DOG" />
+			<grant type="Racial Trait" id="ID_USL_RACIAL_TRAIT_KEEN_HEARING_AND_SMELL" />
+			<grant type="Racial Trait" id="ID_USL_RACIAL_TRAIT_EXPERT_RIDER" />
+			<grant type="Racial Trait" id="ID_USL_RACIAL_TRAIT_LYCANTHROPE_TRACKER" />
+			<grant type="Racial Trait" id="ID_USL_RACIAL_TRAIT_DUMB_DOG" />
 		</rules>
 		
-	<element name="Keen Hearing and Smell" type="Racial Trait" source="user-SamLinsdell" id="ID_RACIAL_TRAIT_KEEN_HEARING_AND_SMELL">
+	<element name="Keen Hearing and Smell" type="Racial Trait" source="user-SamLinsdell" id="ID_USL_RACIAL_TRAIT_KEEN_HEARING_AND_SMELL">
 		<description>
 			<p>An expert tracker and with the blood of Lupine your smell and hearing are more sensetive than most</p>
 			<ul>
@@ -70,7 +70,7 @@
             You have advantage on rolls when using scent to track someone or something.</description>			
 		</sheet>
 	</element>
-		<element name="Expert Rider" type="Racial Trait" source="user-SamLinsdell" id="ID_RACIAL_TRAIT_EXPERT_RIDER">
+		<element name="Expert Rider" type="Racial Trait" source="user-SamLinsdell" id="ID_USL_RACIAL_TRAIT_EXPERT_RIDER">
 		<description>
 			<p>Your tribal upbringing gives you an edge handling horses and other mounts.</p>
 			<ul>
@@ -81,7 +81,7 @@
 			<description>Whenever you make an ability check made to persuade or control a mount, roll a d4, and add the number rolled to the check's total.</description>			
 		</sheet>
 	</element>
-		<element name="Lycanthrope Tracker" type="Racial Trait" source="user-SamLinsdell" id="ID_RACIAL_TRAIT_LYCANTHROPE_TRACKER">
+		<element name="Lycanthrope Tracker" type="Racial Trait" source="user-SamLinsdell" id="ID_USL_RACIAL_TRAIT_LYCANTHROPE_TRACKER">
 		<description>
 			<p>Your intense training has given you unmatched insight when identifying lycanthropes and other shapechangers</p>
 			<ul>
@@ -94,7 +94,7 @@
             n addition, when a shapechanger makes a Charisma (Deception) check to conceal its nature from you, or they make a Dexterity (Stealth) check to hide from you, they do so at disadvantage.</description>			
 		</sheet>
 	</element>
-		<element name="Dumb Dog" type="Racial Trait" source="user-SamLinsdell" id="ID_RACIAL_TRAIT_DUMB_DOG">
+		<element name="Dumb Dog" type="Racial Trait" source="user-SamLinsdell" id="ID_USL_RACIAL_TRAIT_DUMB_DOG">
 		<description>
 			<p>When a Lupin has an Intelligence of 10 or less, they become a slight hindrance to those around them in as much as they are unable to prevent themselves from performing actions, if a thought pops into their head, they will act on it instead of rationalise it.</p>
 		</description>
