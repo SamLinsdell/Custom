@@ -7,7 +7,7 @@
 		</update>
 	</info>
 
-	<element name="Lupin" type="Race" source="Custom" id="ID_RACE_LUPIN">
+	<element name="Lupin" type="Race" source="Lupin Custom" id="ID_RACE_LUPIN">
 		<description>
 			<p class="flavor">The lupin are a tribal people whose origins have been lost to the ages. The canid humanoids wander realms of thick forests and grasslands, rarely making contact with other civilized races for fear of being ostracized. A traditionally nomadic people, it is rare to see a lupin stay in one place for long, and rarer to see one without their bonded mount.</p>
 			<h4>Skilled Predators</h4>
@@ -23,17 +23,17 @@
 				<li><strong>Female Lupin Names:</strong> Arann, Carra, Fikenn, Likka, Jakka, Rottie, Warra, Tzu, Erain.</li>
 			</ul>
 			<h4>Lupin TRAITS</h4>
-			<span class="feature">Ability Score Increase.</strong> Your Dexterity score increases by 2, and your Strength score increases by 1.</p>
-			<span class="feature">Age. The Lupin live for many years; the longest known elder has lived for over 300 human years. Lupins are considered pups until they reach 40 human years, are adults through till 190 human years, following this they are considered Elders.</p>
-			<span class="feature">Alignment. Their strong beliefs in community, loyalty, and trust mark lupins as highly lawful creatures. Generosity and pity for the poor define the race, but lupins also tend to hold grudges and refuse aid to those who have wronged them in the past. Thus, many lupins are either lawful good or lawful neutral. Only rare exceptions become chaotic or evil.</p>
-			<span class="feature">Size. Lupins are a slightly larger size and build than humans. Your size is Medium.</p>
-			<span class="feature">Speed. Your base walking speed is 30 feet.</p>
-			<span class="feature">Darkvision.You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern colour in darkness, only shades of grey.</p>
-			<span class="feature">Keen Hearing and Smell. You gain advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>
-			<span class="feature">Dumb Dog. When a Lupin has an Intelligence of 10 or less, they become a slight hindrance to those around them in as much as they are unable to prevent themselves from performing actions, if a thought pops into their head, they will act on it instead of rationalise it. New creature? Sniff it unless a successful saving roll is made. Strange goop on wall or floor? Going to lick it unless a successful saving roll is made. Teammates can perform a saving roll to stop the Lupin if they fail their own rolls.</p>
-			<span class="feature">Expert Rider. Your tribal upbringing gives you an edge handling horses and other mounts. Whenever you make an ability check made to persuade or control a mount, roll a d4, and add the number rolled to the check's total.</p>
-			<span class="feature">Lycanthrope Tracker. Your intense training has given you unmatched insight when identifying lycanthropes. When you make a Wisdom (Survival) check to track shapechangers, roll a d4, and add the number rolled to the check’s total. While you are actively tracking a shapechanger, you cannot be surprised by them. In addition, when a shapechanger makes a Charisma (Deception) check to conceal its nature from you, or they make a Dexterity (Stealth) check to hide from you, they do so at disadvantage.</p>
-			<span class="feature">Languages. You can speak, read, and write Common and Lupin.</p>
+			<p class="indent"><b><i>Ability Score Increase.</i></b> Your Dexterity score increases by 2, and your Strength score increases by 1.</p>
+			<p class="indent"><b><i>Age.</i></b> The Lupin live for many years; the longest known elder has lived for over 300 human years. Lupins are considered pups until they reach 40 human years, are adults through till 190 human years, following this they are considered Elders.</p>
+			<p class="indent"><b><i>Alignment.</i></b> Their strong beliefs in community, loyalty, and trust mark lupins as highly lawful creatures. Generosity and pity for the poor define the race, but lupins also tend to hold grudges and refuse aid to those who have wronged them in the past. Thus, many lupins are either lawful good or lawful neutral. Only rare exceptions become chaotic or evil.</p>
+			<p class="indent"><b><i>Size.</i></b> Lupins are a slightly larger size and build than humans. Your size is Medium.</p>
+			<p class="indent"><b><i>Speed.</i></b> Your base walking speed is 30 feet.</p>
+			<p class="indent"><b><i>Darkvision.</i></b> You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern colour in darkness, only shades of grey.</p>
+			<p class="indent"><b><i>Keen Hearing and Smell.</i></b> You gain advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>
+			<p class="indent"><b><i>Dumb Dog.</i></b> When a Lupin has an Intelligence of 10 or less, they become a slight hindrance to those around them in as much as they are unable to prevent themselves from performing actions, if a thought pops into their head, they will act on it instead of rationalise it. New creature? Sniff it unless a successful saving roll is made. Strange goop on wall or floor? Going to lick it unless a successful saving roll is made. Teammates can perform a saving roll to stop the Lupin if they fail their own rolls.</p>
+			<p class="indent"><b><i>Expert Rider.</i></b> Your tribal upbringing gives you an edge handling horses and other mounts. Whenever you make an ability check made to persuade or control a mount, roll a d4, and add the number rolled to the check's total.</p>
+			<p class="indent"><b><i>>Lycanthrope Tracker.</i></b> Your intense training has given you unmatched insight when identifying lycanthropes. When you make a Wisdom (Survival) check to track shapechangers, roll a d4, and add the number rolled to the check’s total. While you are actively tracking a shapechanger, you cannot be surprised by them. In addition, when a shapechanger makes a Charisma (Deception) check to conceal its nature from you, or they make a Dexterity (Stealth) check to hide from you, they do so at disadvantage.</p>
+			<p class="indent"><b><i>Languages.</i></b> You can speak, read, and write Common and Lupin.</p>
 		</description>
 		<sheet display="false" />
 		<setters>
@@ -57,25 +57,25 @@
 			<grant type="Racial Trait" id="ID_CUS_RACIAL_TRAIT_DUMB_DOG" />
 		</rules>
 		
-	<element name="Keen Hearing and Smell" type="Racial Trait" source="Custom" id="ID_CUS_RACIAL_TRAIT_KEEN_HEARING_AND_SMELL">
+	<element name="Keen Hearing and Smell" type="Racial Trait" source="Lupin Custom" id="ID_CUS_RACIAL_TRAIT_KEEN_HEARING_AND_SMELL">
 		<description>An expert tracker and with the blood of Lupine your smell and hearing are more sensetive than most. You gain advantage on Wisdom (Perception) checks that rely on hearing or smell. You have advantage on saving throws made to track/description>
 		<sheet>
 			<description>You have advantage on Perception checks made when discerning a smell or sound. You have advantage on rolls when using scent to track someone or something.</description>			
 		</sheet>
 	</element>
-		<element name="Expert Rider" type="Racial Trait" source="Custom" id="ID_CUS_RACIAL_TRAIT_EXPERT_RIDER">
+		<element name="Expert Rider" type="Racial Trait" source="Lupin Custom" id="ID_CUS_RACIAL_TRAIT_EXPERT_RIDER">
 		<description>Your tribal upbringing gives you an edge handling horses and other mounts. Whenever you make an ability check made to persuade or control a mount, roll a d4, and add the number rolled to the check's total. </description>
 		<sheet>
 			<description>Whenever you make an ability check made to persuade or control a mount, roll a d4, and add the number rolled to the check's total.</description>			
 		</sheet>
 	</element>
-		<element name="Lycanthrope Tracker" type="Racial Trait" source="Custom"  id="ID_CUS_RACIAL_TRAIT_LYCANTHROPE_TRACKER">
+		<element name="Lycanthrope Tracker" type="Racial Trait" source="Lupin Custom"  id="ID_CUS_RACIAL_TRAIT_LYCANTHROPE_TRACKER">
 		<description> Your intense training has given you unmatched insight when identifying lycanthropes and other shapechangers, When you make a Wisdom (Survival) check to track shapechangers, roll a d4, and add the number rolled to the check’s total. While you are actively tracking a shapechanger, you cannot be surprised by them. In addition, when a shapechanger makes a Charisma (Deception) check to conceal its nature from you, or they make a Dexterity (Stealth) check to hide from you, they do so at disadvantage.</description>
 		<sheet>
 			<description>When you make a Wisdom (Survival) check to track shapechangers, roll a d4, and add the number rolled to the check’s total. In addition, when a shapechanger makes a Charisma (Deception) check to conceal its nature from you, or they make a Dexterity (Stealth) check to hide from you, they do so at disadvantage.</description>			
 		</sheet>
 	</element>
-		<element name="Dumb Dog" type="Racial Trait" source="Custom" id="ID_CUS_RACIAL_TRAIT_DUMB_DOG">
+		<element name="Dumb Dog" type="Racial Trait" source="Lupin Custom" id="ID_CUS_RACIAL_TRAIT_DUMB_DOG">
 		<description>When a Lupin has an Intelligence of 10 or less, they become a slight hindrance to those around them in as much as they are unable to prevent themselves from performing actions, if a thought pops into their head, they will act on it instead of rationalise it.</description>
 		<sheet>
 			<description>When a Lupin has an Intelligence of 10 or less, they become a slight hindrance to those around them in as much as they are unable to prevent themselves from performing actions, if a thought pops into their head, they will act on it instead of rationalise it. New creature? Sniff it unless a successful saving roll is made. Strange goop on wall or floor? Going to lick it unless a successful saving roll is made. Teammates can perform a saving roll to stop the Lupin if they fail their own rolls.</description>			
