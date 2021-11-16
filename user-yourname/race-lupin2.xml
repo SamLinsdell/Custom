@@ -56,26 +56,26 @@
 			<grant type="Racial Trait" id="ID_CUS_RACIAL_TRAIT_LYCANTHROPE_TRACKER" />
 			<grant type="Racial Trait" id="ID_CUS_RACIAL_TRAIT_DUMB_DOG" />
 		</rules>
-		
+	</element>	
 	<element name="Keen Hearing and Smell" type="Racial Trait" source="Lupin Custom" id="ID_CUS_RACIAL_TRAIT_KEEN_HEARING_AND_SMELL">
 		<description>An expert tracker and with the blood of Lupine your smell and hearing are more sensetive than most. You gain advantage on Wisdom (Perception) checks that rely on hearing or smell. You have advantage on saving throws made to track. </description>
 		<sheet>
 			<description>You have advantage on Perception checks made when discerning a smell or sound. You have advantage on rolls when using scent to track someone or something.</description>			
 		</sheet>
 	</element>
-		<element name="Expert Rider" type="Racial Trait" source="Lupin Custom" id="ID_CUS_RACIAL_TRAIT_EXPERT_RIDER">
+	<element name="Expert Rider" type="Racial Trait" source="Lupin Custom" id="ID_CUS_RACIAL_TRAIT_EXPERT_RIDER">
 		<description>Your tribal upbringing gives you an edge handling horses and other mounts. Whenever you make an ability check made to persuade or control a mount, roll a d4, and add the number rolled to the check's total. </description>
 		<sheet>
 			<description>Whenever you make an ability check made to persuade or control a mount, roll a d4, and add the number rolled to the check's total.</description>			
 		</sheet>
 	</element>
-		<element name="Lycanthrope Tracker" type="Racial Trait" source="Lupin Custom"  id="ID_CUS_RACIAL_TRAIT_LYCANTHROPE_TRACKER">
+	<element name="Lycanthrope Tracker" type="Racial Trait" source="Lupin Custom"  id="ID_CUS_RACIAL_TRAIT_LYCANTHROPE_TRACKER">
 		<description> Your intense training has given you unmatched insight when identifying lycanthropes and other shapechangers, When you make a Wisdom (Survival) check to track shapechangers, roll a d4, and add the number rolled to the check’s total. While you are actively tracking a shapechanger, you cannot be surprised by them. In addition, when a shapechanger makes a Charisma (Deception) check to conceal its nature from you, or they make a Dexterity (Stealth) check to hide from you, they do so at disadvantage.</description>
 		<sheet>
 			<description>When you make a Wisdom (Survival) check to track shapechangers, roll a d4, and add the number rolled to the check’s total. In addition, when a shapechanger makes a Charisma (Deception) check to conceal its nature from you, or they make a Dexterity (Stealth) check to hide from you, they do so at disadvantage.</description>			
 		</sheet>
 	</element>
-		<element name="Dumb Dog" type="Racial Trait" source="Lupin Custom" id="ID_CUS_RACIAL_TRAIT_DUMB_DOG">
+	<element name="Dumb Dog" type="Racial Trait" source="Lupin Custom" id="ID_CUS_RACIAL_TRAIT_DUMB_DOG">
 		<description>When a Lupin has an Intelligence of 10 or less, they become a slight hindrance to those around them in as much as they are unable to prevent themselves from performing actions, if a thought pops into their head, they will act on it instead of rationalise it.</description>
 		<sheet>
 			<description>When a Lupin has an Intelligence of 10 or less, they become a slight hindrance to those around them in as much as they are unable to prevent themselves from performing actions, if a thought pops into their head, they will act on it instead of rationalise it. New creature? Sniff it unless a successful saving roll is made. Strange goop on wall or floor? Going to lick it unless a successful saving roll is made. Teammates can perform a saving roll to stop the Lupin if they fail their own rolls.</description>			
