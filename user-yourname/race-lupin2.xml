@@ -57,6 +57,7 @@
 			<grant type="Racial Trait" id="ID_CUS_RACIAL_TRAIT_DUMB_DOG" />
 		</rules>
 	</element>	
+	
 	<element name="Keen Hearing and Smell" type="Racial Trait" source="Lupin Custom" id="ID_CUS_RACIAL_TRAIT_KEEN_HEARING_AND_SMELL">
 		<description>An expert tracker and with the blood of Lupine your smell and hearing are more sensetive than most. You gain advantage on Wisdom (Perception) checks that rely on hearing or smell. You have advantage on saving throws made to track. </description>
 		<sheet>
